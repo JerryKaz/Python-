@@ -1,5 +1,5 @@
 
-##Overview
+## Overview
 
 This project is a **Python-based application** designed to [solve a problem / perform a task]. It demonstrates key concepts such as:
 
@@ -10,7 +10,7 @@ This project is a **Python-based application** designed to [solve a problem / pe
 
 ---
 
-#Features
+## Features
 
 *  Core functionality (e.g., calculations, automation, API integration)
 *  Fast and efficient performance
@@ -73,7 +73,7 @@ Passionate about building scalable and efficient systems
 
 ---
 
-## ⭐ Support
+## Support
 
 If you like this project, give it a ⭐ on GitHub!
 
